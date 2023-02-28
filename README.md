@@ -1,1 +1,2 @@
-# CNN_DeepLearning_Skin_Cancer
+# CNN_DeepLearning_Skin_Cancer_Detection
+
